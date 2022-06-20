@@ -1,0 +1,49 @@
+
+html{font-size: 10px;}
+
+body{margin: 0px; font-family: 'Noto Sans KR', sans-serif;}
+
+header{ height: 1000px;}
+
+header div{height: 100%;}
+header h1{padding-top: 260px;}
+header p{padding-top: 10px;}
+
+.bg-img1{background-image: url(img/tundrariveraa.jpg); background-attachment: fixed;}
+
+.row
+{
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    padding: 10px 0px;
+    margin-bottom: 30px;
+}
+
+.col-2{padding: 0px 5px;}
+.col-6{width: 100%; padding: 15px 5px;}
+
+.h-200{height: 200px;}
+
+.bg-white{background-color: white;}
+.bg-skyblue{background-color:steelblue;}
+.bg-blue{background-color:rgb(10, 21, 31);}
+.bg-none{background:none;}
+
+.text-white{color: white;}
+.text-gray{color: #333;}
+
+.text-center{text-align: center;}
+
+.text-main-title{font-weight: 700; font-size: 6rem;}
+.text-sub-title{font-weight: 500; font-size: 2rem;}
+.text-normal{font-weight: 300; font-size: 1.5rem;}
+.text-footer{font-weight: 500; font-size: 1.2rem;}
+
+.img-fit{width: 100%;}
+.img-border{border:1px solid #333; box-sizing: border-box;}
+
+footer p{padding: 30px 5px;}
+#footer{margin-bottom: 0px;}
+
+
